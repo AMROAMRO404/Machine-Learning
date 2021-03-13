@@ -23,5 +23,16 @@ Notes: Upload only one .py file for all the answers.
 ### Reference:
 
 O. Mangasarian, W. Street and W. Wolberg, Breast cancer diagnosis and prognosis via linear pro-
-gramming, Operations Research, 1995. Dataset available at http://pages.cs.wisc.edu/~olvi/uwmp/
-cancer.html#diag
+gramming, Operations Research, 1995. Dataset available **[Here](http://pages.cs.wisc.edu/~olvi/uwmp/cancer.html#diag)**
+
+## Assignment 3 --> Neural Network:
+
+Write a program that uses the neural network in scikit, **[Here](https://scikit-learn.org/stable/modules/neural_networks_supervised.html)**
+
+your code should do the following
+
+- read the iris data
+- establish a neural network with one hidden layer.
+- use 3 fold cross-validation
+- study the overfit as we increase the hidden neurons
+- plot the results of the (number of hidden neurons vs the accuracy)

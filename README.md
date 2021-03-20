@@ -36,3 +36,11 @@ your code should do the following
 - use 3 fold cross-validation
 - study the overfit as we increase the hidden neurons
 - plot the results of the (number of hidden neurons vs the accuracy)
+
+## Assignment 4 --> Adaboost:
+
+Implement adaboost without relyting on scikit-learn :
+
+- Use the same data and the same weak classifiers as in the lecture slides.
+- Show the values of alpha for each classifier.
+- Show the class of one random sample.
